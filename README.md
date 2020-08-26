@@ -1,6 +1,7 @@
-# Hi, I'm AnnChar. Nice to see you! 
+# Hi, 👋
 
-### I'm Android Developer 💻
+#### I'm AnnChar. I work as Android Developer 💻 Nice to see you! 
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chanoknadm/)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@annchar)
