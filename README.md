@@ -7,7 +7,6 @@
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@annchar)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=annchar&show_icons=true&icon_color=000000&hide=commits&include_all_commits=true&count_private=true)](https://github.com/annchar?tab=repositories)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annchar&layout=compact)](https://github.com/annchar?tab=repositories)
 
 <p align="center">
